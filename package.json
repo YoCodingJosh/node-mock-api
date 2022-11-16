@@ -1,0 +1,15 @@
+{
+  "name": "mocking-api",
+  "version": "1.0.0",
+  "description": "ThIs Is A gReAt ApI fOr MoCkInG sTuFf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Kennedy",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.10.0"
+  }
+}
